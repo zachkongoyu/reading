@@ -88,31 +88,31 @@ Stop when ANY of these happen:
 
 | # | Book | Author | What it gives you |
 |---|---|---|---|
-| 1 | Superforecasting | Philip Tetlock | HOW to predict: the actual science |
-| 2 | The Art of Thinking Clearly | Rolf Dobelli | Logical errors — hundreds of cognitive traps |
-| 3 | The Changing World Order | Ray Dalio | Macro cycles — where are we, what's coming |
-| 4 | The Price of Tomorrow | Jeff Booth | Deflation + tech — fundamental model of the economy |
-| 5 | Skin in the Game | Nassim Taleb | The tech-finance system — where to sit |
+| 1 | Superforecasting | Philip Tetlock | HOW to predict — the actual science |
+| 2 | Thinking in Systems | Donella Meadows | HOW systems behave — feedback loops, leverage |
+| 3 | The Changing World Order | Ray Dalio | Macro cycles — where we are in history |
+| 4 | Chip War | Chris Miller | The current geopolitical game board |
+| 5 | Tech Revolutions & Financial Capital | Carlota Perez | The tech-finance cycle — where AI sits |
 
-### Tier 2
+### Tier 2 — Build Depth
 
 | # | Book | Author | What it gives you |
 |---|---|---|---|
 | 6 | The Beginning of Infinity | David Deutsch | Epistemology — how knowledge/progress works |
-| 7 | Antifragile | Nassim Taleb | What survives volatility/grows/thrives |
-| 8 | Poor Charlie's Almanack | Charlie Munger | Mental model catalog (the original) |
-| 9 | Thinking in Systems | Donella Meadows | Physical constraints on everything |
-| 10 | The Tech-Finance System | — | Where to sit |
+| 7 | Antifragile | Nassim Taleb | What survives vs. what breaks |
+| 8 | How the World Really Works | Vaclav Smil | Physical constraints on everything |
+| 9 | Poor Charlie's Almanack | Charlie Munger | Mental model catalog (the original) |
+| 10 | The Sovereign Individual | Davidson/Rees-Mogg | Macro predictions (eerily accurate, 1997) |
 
-### Tier 3 — Specialist Depth
+### Tier 3 — Specialist Depth (pick based on interest)
 
 | # | Book | Author | What it gives you |
 |---|---|---|---|
-| 11 | The Most Important Thing | Howard Marks | Investor mental models |
-| 12 | Scale | Geoffrey West | Power laws — cities, companies, biology |
-| 13 | The Innovator's Dilemma | Clayton Christensen | Tech disruption patterns |
-| 14 | Situational Awareness | Leopold Aschenbrenner | AI trajectory (free online, 2024) |
-| 15 | The Structure of Scientific Revolutions | Thomas Kuhn | How paradigm shifts actually happen |
+| 11 | The Most Important Thing | Howard Marks | Investing — second-order thinking |
+| 12 | Scale | Geoffrey West | Power laws / universals across systems |
+| 13 | The Innovator's Dilemma | C. Christensen | Tech disruption patterns |
+| 14 | Situational Awareness | L. Aschenbrenner | AI trajectory (free online, 2024) |
+| 15 | Structure of Scientific Revolutions | Thomas Kuhn | How paradigm shifts actually happen |
 
 ---
 
