@@ -1,12 +1,18 @@
 # Reading System: Predict the World
 
-## Goals
+> **Goal:** Strong vision. Better thinker. Better technologist. Better investor. Predict the world close enough to be great.
 
-1. Strong vision about the world
-2. Better thinker
-3. Better technologist
-4. Better investor
-5. Predict the world close enough to be great
+---
+
+## Table of Contents
+
+- [How to Read](#how-to-read)
+- [When to Stop](#when-to-stop-per-session)
+- [When to Read](#when-to-read-internal-state-check)
+- [Book Tiers](#book-tiers)
+- [Permission Slips](#permission-slips)
+- [The Full Formula](#the-full-formula)
+- [Collector's Fallacy Reminder](#collectors-fallacy-reminder)
 
 ---
 
@@ -14,19 +20,21 @@
 
 ### Core Belief Shift
 
-- **OLD:** Reading = transferring the book into my brain (hard drive)
-- **NEW:** Reading = changing how I THINK, not what I STORE (processor)
+| | |
+|---|---|
+| **OLD** | Reading = transferring the book into my brain *(hard drive)* |
+| **NEW** | Reading = changing how I THINK, not what I STORE *(processor)* |
 
-*You don't remember every meal you ate, but each one still built your body.*
+> *You don't remember every meal you ate, but each one still built your body.*
 
 ### Before Opening a Book
 
-Ask: "What is the ONE question I want this book to answer?"
+Ask: **"What is the ONE question I want this book to answer?"**
 Read with that lens. Skip chapters that don't serve it.
 
 ### The Only Notes Worth Taking
 
-*"I used to think X. Now I think Y. Because this book showed me Z."*
+> *"I used to think X. Now I think Y. Because this book showed me Z."*
 
 One sentence per chapter max. If you can't write it, move on.
 
@@ -37,25 +45,25 @@ One sentence per chapter max. If you can't write it, move on.
 Set a **TIMER (30 min)**, not a page goal.
 
 Stop when ANY of these happen:
+
 - Re-reading the same paragraph (eyes moved, brain didn't)
 - Can't summarize the last 2 pages
 - Mind wanders to other things
 - Hit a big insight - STOP AT THE PEAK, let it integrate
 
-*Do NOT push past the focus cliff with willpower.*
-*Everything after is eyes moving with zero retention.*
+> *Do NOT push past the focus cliff with willpower.*
+> *Everything after is eyes moving with zero retention.*
 
 ---
 
 ## When to Read (internal state check)
 
-### The Test
+**The Test:** *"Am I CURIOUS right now, or OBLIGATED?"*
 
-> "Am I CURIOUS right now, or OBLIGATED?"
-> - Curious -> Read. You'll absorb.
-> - Obligated -> Don't. You'll just build aversion.
+- Curious -> Read. You'll absorb.
+- Obligated -> Don't. You'll just build aversion.
 
-### Good Internal State (read here)
+### ✅ Good Internal State (read here)
 
 - Calm but alert (medium energy)
 - Curious ("I want to")
@@ -64,7 +72,7 @@ Stop when ANY of these happen:
 - Gentle boredom - brain is hungry for input
 - After a walk or light exercise
 
-### Bad Internal State (don't read here)
+### ❌ Bad Internal State (don't read here)
 
 - Obligation / guilt ("I should be reading")
 - Anxious / racing mind (working memory full)
@@ -74,9 +82,11 @@ Stop when ANY of these happen:
 
 ### Energy Allocation
 
-Peak energy -> BUILD (code, create, decide)
-Medium energy -> READ (absorb, think, process)
-Low energy -> REST (don't pretend reading here is productive)
+| Energy | Activity |
+|---|---|
+| 🔥 Peak | **BUILD** — code, create, decide |
+| ⚡ Medium | **READ** — absorb, think, process |
+| 🌙 Low | **REST** — don't pretend reading here is productive |
 
 ---
 
@@ -86,17 +96,17 @@ Low energy -> REST (don't pretend reading here is productive)
 
 | # | Book | Author | What it gives you |
 |---|---|---|---|
-| 1 | Superforecasting | Philip Tetlock | HOW to predict — the actual science |
-| 2 | Thinking in Systems | Donella Meadows | HOW systems behave — feedback loops, leverage |
-| 3 | The Changing World Order | Ray Dalio | Macro cycles — where we are in history |
+| 1 | Superforecasting | Philip Tetlock | HOW to predict - the actual science |
+| 2 | Thinking in Systems | Donella Meadows | HOW systems behave - feedback loops, leverage |
+| 3 | The Changing World Order | Ray Dalio | Macro cycles - where we are in history |
 | 4 | Chip War | Chris Miller | The current geopolitical game board |
-| 5 | Tech Revolutions & Financial Capital | Carlota Perez | The tech-finance cycle — where AI sits |
+| 5 | Tech Revolutions & Financial Capital | Carlota Perez | The tech-finance cycle - where AI sits |
 
 ### Tier 2 — Build Depth
 
 | # | Book | Author | What it gives you |
 |---|---|---|---|
-| 6 | The Beginning of Infinity | David Deutsch | Epistemology — how knowledge/progress works |
+| 6 | The Beginning of Infinity | David Deutsch | Epistemology - how knowledge/progress works |
 | 7 | Antifragile | Nassim Taleb | What survives vs. what breaks |
 | 8 | How the World Really Works | Vaclav Smil | Physical constraints on everything |
 | 9 | Poor Charlie's Almanack | Charlie Munger | Mental model catalog (the original) |
@@ -106,7 +116,7 @@ Low energy -> REST (don't pretend reading here is productive)
 
 | # | Book | Author | What it gives you |
 |---|---|---|---|
-| 11 | The Most Important Thing | Howard Marks | Investing — second-order thinking |
+| 11 | The Most Important Thing | Howard Marks | Investing - second-order thinking |
 | 12 | Scale | Geoffrey West | Power laws / universals across systems |
 | 13 | The Innovator's Dilemma | C. Christensen | Tech disruption patterns |
 | 14 | Situational Awareness | L. Aschenbrenner | AI trajectory (free online, 2024) |
@@ -127,11 +137,13 @@ Low energy -> REST (don't pretend reading here is productive)
 
 ## The Full Formula
 
+```
 Reading (15 books)     -> installs the operating system
 Practice (predictions) -> calibrates it
 Building (shipping)    -> grounds it in reality
 Investing (real money) -> forces honesty
 Conversations (people) -> gives live signal
+```
 
 Reading is ~30% of becoming a great predictor. The rest is the practice loop:
 
